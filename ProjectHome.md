@@ -1,0 +1,1 @@
+Ninefs is a 9p filesystem for win32.  It is built on the Dokan and npfs libraries.  It allows 9p resources from other machines to be mounted as a filesystem in a win32 system such as Windows XP.  See http://ninefs.googlecode.com/files/README.txt for more information.
